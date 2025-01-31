@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrlyu&" alt="jrlyu" /></p>
 
-<p><i>This profile page is made with assistant of <a href="https://rahuldkjain.github.io/gh-profile-readme-generator>Profile README Generator</a></i></p>
+<p><i>This profile page is made with assistant of <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">Profile README Generator</a></i></p>
 
 <!--
 **JrLyu/JrLyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
