@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my notes are available @ [https://jrlyu.github.io/notes.html](https://jrlyu.github.io/notes.html)
 
-- 📝 I regularly write articles on [https://jrlyu.github.io/notes.html](https://jrlyu.github.io/blogs.html)
+- 📝 I regularly write articles on [https://jrlyu.github.io/blogs.html](https://jrlyu.github.io/blogs.html)
 
 - ⚡ Fun fact **I love coffee brewing/tasting, traveling, commercial aviation, and photography**
 
